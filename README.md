@@ -1,5 +1,5 @@
 <h1>Spotify Clone</h1>
----
+
 <img src="img/SpotifyHome.png">
 
 Neste repositório está contido um clone da interface home do Spotify Web. O projeto em sí traz uma interface identica ao home do Spotify e possui um layout totalmente responsivo e funcionando em diversos dispositivos.
@@ -9,7 +9,7 @@ O projeto foi realizado utilizando apenas as tecnologias de HTML/CSS com o Boots
 <img src="img/SpotifyHome2.png">
 
 <h1>Responsividade</h1>
----
+
 
 <img src="img/SpotifyResponsivo.png">
 
